@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+    <poly id="guide_NE_1" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="0.0,11.0 0.1,8.5"/>
+    <poly id="guide_NE_2" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="0.6,6.5 1.6,4.5"/>
+    <poly id="guide_NE_3" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="3.0,2.7 5.0,1.4"/>
+    <poly id="guide_NE_4" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="7.0,0.4 9.0,0.1"/>
+
+    <poly id="guide_ES_1" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="11.0,0.0 8.5,-0.1"/>
+    <poly id="guide_ES_2" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="6.5,-0.6 4.5,-1.6"/>
+    <poly id="guide_ES_3" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="2.7,-3.0 1.4,-5.0"/>
+    <poly id="guide_ES_4" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="0.4,-7.0 0.1,-9.0"/>
+
+    <poly id="guide_SW_1" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="0.0,-11.0 -0.1,-8.5"/>
+    <poly id="guide_SW_2" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="-0.6,-6.5 -1.6,-4.5"/>
+    <poly id="guide_SW_3" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="-3.0,-2.7 -5.0,-1.4"/>
+    <poly id="guide_SW_4" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="-7.0,-0.4 -9.0,-0.1"/>
+
+    <poly id="guide_WN_1" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="-11.0,0.0 -8.5,0.1"/>
+    <poly id="guide_WN_2" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="-6.5,0.6 -4.5,1.6"/>
+    <poly id="guide_WN_3" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="-2.7,3.0 -1.4,5.0"/>
+    <poly id="guide_WN_4" color="255,255,255" fill="false" closed="false" layer="100" lineWidth="0.1" shape="-0.4,7.0 -0.1,9.0"/>
+</additional>

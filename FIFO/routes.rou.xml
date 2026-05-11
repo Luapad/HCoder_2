@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+    <route id="r_N2S" edges="N_in S_out"/>
+    <route id="r_S2N" edges="S_in N_out"/>
+    <route id="r_E2W" edges="E_in W_out"/>
+    <route id="r_W2E" edges="W_in E_out"/>
+
+    <vType id="auto" length="5.0" maxSpeed="13.89" accel="2.6" decel="4.5" sigma="0"/>
+
+    <flow id="flow_N" type="auto" route="r_N2S" begin="0" end="3600" probability="0.1"/>
+    <flow id="flow_S" type="auto" route="r_S2N" begin="0" end="3600" probability="0.1"/>
+    <flow id="flow_E" type="auto" route="r_E2W" begin="0" end="3600" probability="0.1"/>
+    <flow id="flow_W" type="auto" route="r_W2E" begin="0" end="3600" probability="0.1"/>
+</routes>

@@ -1,0 +1,363 @@
+[
+    {
+        "route_id": "r_e_in_w_out_0",
+        "origin_edge": "e_in",
+        "to_edge": "w_out",
+        "turn": "Straight",
+        "lane": "0",
+        "speed": 11.816056307199714,
+        "veh_id": "veh_e_in_Straight_0"
+    },
+    {
+        "route_id": "r_e_in_w_out_1",
+        "origin_edge": "e_in",
+        "to_edge": "w_out",
+        "turn": "Straight",
+        "lane": "0",
+        "speed": 12.995520595037755,
+        "veh_id": "veh_e_in_Straight_1"
+    },
+    {
+        "route_id": "r_e_in_n_out_2",
+        "origin_edge": "e_in",
+        "to_edge": "n_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 11.1824406702729,
+        "veh_id": "veh_e_in_Right_2"
+    },
+    {
+        "route_id": "r_e_in_w_out_3",
+        "origin_edge": "e_in",
+        "to_edge": "w_out",
+        "turn": "Straight",
+        "lane": "1",
+        "speed": 12.513232392512027,
+        "veh_id": "veh_e_in_Straight_3"
+    },
+    {
+        "route_id": "r_e_in_w_out_4",
+        "origin_edge": "e_in",
+        "to_edge": "w_out",
+        "turn": "Straight",
+        "lane": "1",
+        "speed": 8.886954317670924,
+        "veh_id": "veh_e_in_Straight_4"
+    },
+    {
+        "route_id": "r_e_in_n_out_5",
+        "origin_edge": "e_in",
+        "to_edge": "n_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 9.513939134248643,
+        "veh_id": "veh_e_in_Right_5"
+    },
+    {
+        "route_id": "r_e_in_n_out_6",
+        "origin_edge": "e_in",
+        "to_edge": "n_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 9.860468898393641,
+        "veh_id": "veh_e_in_Right_6"
+    },
+    {
+        "route_id": "r_e_in_n_out_7",
+        "origin_edge": "e_in",
+        "to_edge": "n_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 12.714096709321863,
+        "veh_id": "veh_e_in_Right_7"
+    },
+
+    {
+        "route_id": "r_e_in_w_out_8",
+        "origin_edge": "e_in",
+        "to_edge": "w_out",
+        "turn": "Straight",
+        "lane": "0",
+        "speed": 12.702066659952244,
+        "veh_id": "veh_e_in_Straight_8"
+    },
+    {
+        "route_id": "r_e_in_w_out_9",
+        "origin_edge": "e_in",
+        "to_edge": "w_out",
+        "turn": "Straight",
+        "lane": "1",
+        "speed": 8.634288889567348,
+        "veh_id": "veh_e_in_Straight_9"
+    },
+    {
+        "route_id": "r_w_in_e_out_10",
+        "origin_edge": "w_in",
+        "to_edge": "e_out",
+        "turn": "Straight",
+        "lane": "0",
+        "speed": 9.58053012392626,
+        "veh_id": "veh_w_in_Straight_10"
+    },
+    {
+        "route_id": "r_w_in_s_out_11",
+        "origin_edge": "w_in",
+        "to_edge": "s_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 10.49052935812218,
+        "veh_id": "veh_w_in_Right_11"
+    },
+    {
+        "route_id": "r_w_in_e_out_12",
+        "origin_edge": "w_in",
+        "to_edge": "e_out",
+        "turn": "Straight",
+        "lane": "0",
+        "speed": 12.502584833371836,
+        "veh_id": "veh_w_in_Straight_12"
+    },
+    {
+        "route_id": "r_w_in_e_out_13",
+        "origin_edge": "w_in",
+        "to_edge": "e_out",
+        "turn": "Straight",
+        "lane": "0",
+        "speed": 11.428331511104584,
+        "veh_id": "veh_w_in_Straight_13"
+    },
+    {
+        "route_id": "r_w_in_e_out_14",
+        "origin_edge": "w_in",
+        "to_edge": "e_out",
+        "turn": "Straight",
+        "lane": "1",
+        "speed": 8.778103071800032,
+        "veh_id": "veh_w_in_Straight_14"
+    },
+    {
+        "route_id": "r_w_in_e_out_15",
+        "origin_edge": "w_in",
+        "to_edge": "e_out",
+        "turn": "Straight",
+        "lane": "1",
+        "speed": 10.998755913969699,
+        "veh_id": "veh_w_in_Straight_15"
+    },
+    {
+        "route_id": "r_w_in_n_out_16",
+        "origin_edge": "w_in",
+        "to_edge": "n_out",
+        "turn": "Left",
+        "lane": "1",
+        "speed": 9.202479085854694,
+        "veh_id": "veh_w_in_Left_16"
+    },
+    {
+        "route_id": "r_w_in_n_out_17",
+        "origin_edge": "w_in",
+        "to_edge": "n_out",
+        "turn": "Left",
+        "lane": "1",
+        "speed": 10.342150573031606,
+        "veh_id": "veh_w_in_Left_17"
+    },
+    {
+        "route_id": "r_w_in_n_out_18",
+        "origin_edge": "w_in",
+        "to_edge": "n_out",
+        "turn": "Left",
+        "lane": "1",
+        "speed": 9.634742899720974,
+        "veh_id": "veh_w_in_Left_18"
+    },
+    {
+        "route_id": "r_w_in_n_out_19",
+        "origin_edge": "w_in",
+        "to_edge": "n_out",
+        "turn": "Left",
+        "lane": "1",
+        "speed": 10.871521036752377,
+        "veh_id": "veh_w_in_Left_19"
+    },
+    {
+        "route_id": "r_s_in_e_out_20",
+        "origin_edge": "s_in",
+        "to_edge": "e_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 12.489495443642603,
+        "veh_id": "veh_s_in_Right_20"
+    },
+    {
+        "route_id": "r_s_in_n_out_21",
+        "origin_edge": "s_in",
+        "to_edge": "n_out",
+        "turn": "Straight",
+        "lane": "1",
+        "speed": 8.842502744372863,
+        "veh_id": "veh_s_in_Straight_21"
+    },
+    {
+        "route_id": "r_s_in_n_out_22",
+        "origin_edge": "s_in",
+        "to_edge": "n_out",
+        "turn": "Straight",
+        "lane": "1",
+        "speed": 11.949272024562813,
+        "veh_id": "veh_s_in_Straight_22"
+    },
+    {
+        "route_id": "r_s_in_e_out_23",
+        "origin_edge": "s_in",
+        "to_edge": "e_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 10.751035790289158,
+        "veh_id": "veh_s_in_Right_23"
+    },
+    {
+        "route_id": "r_s_in_e_out_24",
+        "origin_edge": "s_in",
+        "to_edge": "e_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 9.757341020719984,
+        "veh_id": "veh_s_in_Right_24"
+    },
+    {
+        "route_id": "r_s_in_e_out_25",
+        "origin_edge": "s_in",
+        "to_edge": "e_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 10.882876459415915,
+        "veh_id": "veh_s_in_Right_25"
+    },
+    {
+        "route_id": "r_s_in_e_out_26",
+        "origin_edge": "s_in",
+        "to_edge": "e_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 10.939200370305876,
+        "veh_id": "veh_s_in_Right_26"
+    },
+    {
+        "route_id": "r_s_in_w_out_27",
+        "origin_edge": "s_in",
+        "to_edge": "w_out",
+        "turn": "Left",
+        "lane": "1",
+        "speed": 12.013556106072514,
+        "veh_id": "veh_s_in_Left_27"
+    },
+    {
+        "route_id": "r_s_in_e_out_28",
+        "origin_edge": "s_in",
+        "to_edge": "e_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 9.107929505324755,
+        "veh_id": "veh_s_in_Right_28"
+    },
+    {
+        "route_id": "r_s_in_n_out_29",
+        "origin_edge": "s_in",
+        "to_edge": "n_out",
+        "turn": "Straight",
+        "lane": "0",
+        "speed": 9.348559772132056,
+        "veh_id": "veh_s_in_Straight_29"
+    },
+    {
+        "route_id": "r_n_in_w_out_30",
+        "origin_edge": "n_in",
+        "to_edge": "w_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 12.5783075404769,
+        "veh_id": "veh_n_in_Right_30"
+    },
+    {
+        "route_id": "r_n_in_w_out_31",
+        "origin_edge": "n_in",
+        "to_edge": "w_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 12.850926380114785,
+        "veh_id": "veh_n_in_Right_31"
+    },
+    {
+        "route_id": "r_n_in_w_out_32",
+        "origin_edge": "n_in",
+        "to_edge": "w_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 10.707932665190224,
+        "veh_id": "veh_n_in_Right_32"
+    },
+    {
+        "route_id": "r_n_in_w_out_33",
+        "origin_edge": "n_in",
+        "to_edge": "w_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 9.611222176576767,
+        "veh_id": "veh_n_in_Right_33"
+    },
+    {
+        "route_id": "r_n_in_e_out_34",
+        "origin_edge": "n_in",
+        "to_edge": "e_out",
+        "turn": "Left",
+        "lane": "1",
+        "speed": 12.02965738665361,
+        "veh_id": "veh_n_in_Left_34"
+    },
+    {
+        "route_id": "r_n_in_w_out_35",
+        "origin_edge": "n_in",
+        "to_edge": "w_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 9.967511417488378,
+        "veh_id": "veh_n_in_Right_35"
+    },
+    {
+        "route_id": "r_n_in_e_out_36",
+        "origin_edge": "n_in",
+        "to_edge": "e_out",
+        "turn": "Left",
+        "lane": "1",
+        "speed": 8.477929940226877,
+        "veh_id": "veh_n_in_Left_36"
+    },
+    {
+        "route_id": "r_n_in_e_out_37",
+        "origin_edge": "n_in",
+        "to_edge": "e_out",
+        "turn": "Left",
+        "lane": "1",
+        "speed": 9.85911850439887,
+        "veh_id": "veh_n_in_Left_37"
+    },
+    {
+        "route_id": "r_n_in_e_out_38",
+        "origin_edge": "n_in",
+        "to_edge": "e_out",
+        "turn": "Left",
+        "lane": "1",
+        "speed": 12.688161970800897,
+        "veh_id": "veh_n_in_Left_38"
+    },
+    {
+        "route_id": "r_n_in_w_out_39",
+        "origin_edge": "n_in",
+        "to_edge": "w_out",
+        "turn": "Right",
+        "lane": "0",
+        "speed": 12.1598984154854,
+        "veh_id": "veh_n_in_Right_39"
+    }
+]
